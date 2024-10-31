@@ -1,0 +1,165 @@
+Dex #,Nat'l #,Name,Type,Cut,Fly,Surf,Strength,Waterfall,Dive,Total
+5,5,Snivy,Grass,Y,N,N,N,N,N,1
+5,5,Servine,Grass,Y,N,N,N,N,N,1
+5,5,Serperior,Grass,Y,N,N,Y,N,N,2
+5,5,Tepig,Fire,N,N,N,Y,N,N,1
+5,5,Pignite,Fire Fighting,N,N,N,Y,N,N,1
+5,5,Emboar,Fire Fighting,N,N,N,Y,N,N,1
+5,5,Oshawott,Water,Y,N,Y,N,Y,Y,4
+5,5,Dewott,Water,Y,N,Y,N,Y,Y,4
+5,5,Samurott,Water,Y,N,Y,Y,Y,Y,5
+5,5,Patrat,Normal,Y,N,N,N,N,N,1
+5,5,Watchog,Normal,Y,N,N,Y,N,N,2
+5,5,Lillipup,Normal,N,N,N,N,N,N,0
+5,5,Herdier,Normal,N,N,Y,Y,N,N,2
+5,5,Stoutland,Normal,N,N,Y,Y,N,N,2
+5,5,Purrloin,Dark,Y,N,N,N,N,N,1
+5,5,Liepard,Dark,Y,N,N,N,N,N,1
+5,5,Pansage,Grass,Y,N,N,N,N,N,1
+5,5,Simisage,Grass,Y,N,N,N,N,N,1
+5,5,Pansear,Fire,Y,N,N,N,N,N,1
+5,5,Simisear,Fire,Y,N,N,N,N,N,1
+5,5,Panpour,Water,Y,N,Y,N,Y,Y,4
+5,5,Simipour,Water,Y,N,Y,N,Y,Y,4
+5,5,Munna,Psychic,N,N,N,N,N,N,0
+5,5,Musharna,Psychic,N,N,N,N,N,N,0
+5,5,Pidove,Normal Flying,N,Y,N,N,N,N,1
+5,5,Tranquill,Normal Flying,N,Y,N,N,N,N,1
+5,5,Unfezant,Normal Flying,N,Y,N,N,N,N,1
+5,5,Blitzle,Electric,N,N,N,N,N,N,0
+5,5,Zebstrika,Electric,N,N,N,N,N,N,0
+5,5,Roggenrola,Rock,N,N,N,Y,N,N,1
+5,5,Boldore,Rock,N,N,N,Y,N,N,1
+5,5,Gigalith,Rock,N,N,N,Y,N,N,1
+5,5,Woobat,Psychic Flying,N,Y,N,N,N,N,1
+5,5,Swoobat,Psychic Flying,N,Y,N,N,N,N,1
+5,5,Drilbur,Ground,Y,N,N,Y,N,N,2
+5,5,Excadrill,Ground Steel,Y,N,N,Y,N,N,2
+5,5,Audino,Normal,N,N,Y,N,N,N,1
+5,5,Timburr,Fighting,N,N,N,Y,N,N,1
+5,5,Gurdurr,Fighting,N,N,N,Y,N,N,1
+5,5,Conkeldurr,Fighting,N,N,N,Y,N,N,1
+5,5,Tympole,Water,N,N,Y,N,N,N,1
+5,5,Palpitoad,Water Ground,N,N,Y,N,N,N,1
+5,5,Seismitoad,Water Ground,N,N,Y,Y,N,N,2
+5,5,Throh,Fighting,N,N,N,Y,N,N,1
+5,5,Sawk,Fighting,N,N,N,Y,N,N,1
+5,5,Sewaddle,Bug Grass,Y,N,N,N,N,N,1
+5,5,Swadloon,Bug Grass,Y,N,N,N,N,N,1
+5,5,Leavanny,Bug Grass,Y,N,N,N,N,N,1
+5,5,Venipede,Bug Poison,N,N,N,N,N,N,0
+5,5,Whirlipede,Bug Poison,N,N,N,N,N,N,0
+5,5,Scolipede,Bug Poison,Y,N,N,Y,N,N,2
+5,5,Cottonee,Grass Fairy,N,N,N,N,N,N,0
+5,5,Whimsicott,Grass Fairy,N,N,N,N,N,N,0
+5,5,Petilil,Grass,Y,N,N,N,N,N,1
+5,5,Lilligant,Grass,Y,N,N,N,N,N,1
+5,5,Basculin Red-Striped Form,Water,Y,N,Y,N,Y,Y,4
+5,5,Basculin Blue-Striped Form,Water,N,N,N,N,N,N,0
+5,5,Sandile,Ground Dark,Y,N,N,N,N,N,1
+5,5,Krokorok,Ground Dark,Y,N,N,Y,N,N,2
+5,5,Krookodile,Ground Dark,Y,N,N,Y,N,N,2
+5,5,Darumaka,Fire,N,N,N,Y,N,N,1
+5,5,Darmanitan Standard Mode,Fire,N,N,N,Y,N,N,1
+5,5,Darmanitan Zen Mode,Fire Psychic,N,N,N,N,N,N,0
+5,5,Maractus,Grass,N,N,N,N,N,N,0
+5,5,Dwebble,Bug Rock,Y,N,N,Y,N,N,2
+5,5,Crustle,Bug Rock,Y,N,N,Y,N,N,2
+5,5,Scraggy,Dark Fighting,N,N,N,Y,N,N,1
+5,5,Scrafty,Dark Fighting,N,N,N,Y,N,N,1
+5,5,Sigilyph,Psychic Flying,N,Y,N,N,N,N,1
+5,5,Yamask,Ghost,N,N,N,N,N,N,0
+5,5,Cofagrigus,Ghost,N,N,N,N,N,N,0
+5,5,Tirtouga,Water Rock,N,N,Y,Y,Y,Y,4
+5,5,Carracosta,Water Rock,N,N,Y,Y,Y,Y,4
+5,5,Archen,Rock Flying,Y,N,N,N,N,N,1
+5,5,Archeops,Rock Flying,Y,Y,N,N,N,N,2
+5,5,Trubbish,Poison,N,N,N,N,N,N,0
+5,5,Garbodor,Poison,N,N,N,N,N,N,0
+5,5,Zorua,Dark,Y,N,N,N,N,N,1
+5,5,Zoroark,Dark,Y,N,N,N,N,N,1
+5,5,Minccino,Normal,N,N,N,N,N,N,0
+5,5,Cinccino,Normal,N,N,N,N,N,N,0
+5,5,Gothita,Psychic,N,N,N,N,N,N,0
+5,5,Gothorita,Psychic,N,N,N,N,N,N,0
+5,5,Gothitelle,Psychic,N,N,N,N,N,N,0
+5,5,Solosis,Psychic,N,N,N,N,N,N,0
+5,5,Duosion,Psychic,N,N,N,N,N,N,0
+5,5,Reuniclus,Psychic,N,N,N,Y,N,N,1
+5,5,Ducklett,Water Flying,N,Y,Y,N,N,Y,3
+5,5,Swanna,Water Flying,N,Y,Y,N,N,Y,3
+5,5,Vanillite,Ice,N,N,N,N,N,N,0
+5,5,Vanillish,Ice,N,N,N,N,N,N,0
+5,5,Vanilluxe,Ice,N,N,N,N,N,N,0
+5,5,Deerling,Normal Grass,N,N,N,N,N,N,0
+5,5,Sawsbuck,Normal Grass,Y,N,N,N,N,N,1
+5,5,Emolga,Electric Flying,Y,N,N,N,N,N,1
+5,5,Karrablast,Bug,Y,N,N,N,N,N,1
+5,5,Escavalier,Bug Steel,Y,N,N,N,N,N,1
+5,5,Foongus,Grass Poison,N,N,N,N,N,N,0
+5,5,Amoonguss,Grass Poison,N,N,N,N,N,N,0
+5,5,Frillish,Water Ghost,N,N,Y,N,Y,Y,3
+5,5,Jellicent,Water Ghost,N,N,Y,N,Y,Y,3
+5,5,Alomomola,Water,N,N,Y,N,Y,Y,3
+5,5,Joltik,Bug Electric,Y,N,N,N,N,N,1
+5,5,Galvantula,Bug Electric,Y,N,N,N,N,N,1
+5,5,Ferroseed,Grass Steel,N,N,N,N,N,N,0
+5,5,Ferrothorn,Grass Steel,Y,N,N,Y,N,N,2
+5,5,Klink,Steel,N,N,N,N,N,N,0
+5,5,Klang,Steel,N,N,N,N,N,N,0
+5,5,Klinklang,Steel,N,N,N,N,N,N,0
+5,5,Tynamo,Electric,N,N,N,N,N,N,0
+5,5,Eelektrik,Electric,N,N,N,N,N,N,0
+5,5,Eelektross,Electric,Y,N,N,Y,N,N,2
+5,5,Elgyem,Psychic,N,N,N,N,N,N,0
+5,5,Beheeyem,Psychic,N,N,N,N,N,N,0
+5,5,Litwick,Ghost Fire,N,N,N,N,N,N,0
+5,5,Lampent,Ghost Fire,N,N,N,N,N,N,0
+5,5,Chandelure,Ghost Fire,N,N,N,N,N,N,0
+5,5,Axew,Dragon,Y,N,N,Y,N,N,2
+5,5,Fraxure,Dragon,Y,N,N,Y,N,N,2
+5,5,Haxorus,Dragon,Y,N,Y,Y,N,N,3
+5,5,Cubchoo,Ice,Y,N,Y,Y,N,N,3
+5,5,Beartic,Ice,Y,N,Y,Y,N,Y,4
+5,5,Cryogonal,Ice,N,N,N,N,N,N,0
+5,5,Shelmet,Bug,N,N,N,N,N,N,0
+5,5,Accelgor,Bug,N,N,N,N,N,N,0
+5,5,Stunfisk,Ground Electric,N,N,Y,N,N,N,1
+5,5,Mienfoo,Fighting,N,N,N,Y,N,N,1
+5,5,Mienshao,Fighting,N,N,N,Y,N,N,1
+5,5,Druddigon,Dragon,Y,N,Y,Y,N,N,3
+5,5,Golett,Ground Ghost,N,N,N,Y,N,N,1
+5,5,Golurk,Ground Ghost,N,Y,N,Y,N,N,2
+5,5,Pawniard,Dark Steel,Y,N,N,N,N,N,1
+5,5,Bisharp,Dark Steel,Y,N,N,N,N,N,1
+5,5,Bouffalant,Normal,Y,N,Y,Y,N,N,3
+5,5,Rufflet,Normal Flying,Y,Y,N,Y,N,N,3
+5,5,Braviary,Normal Flying,Y,Y,N,Y,N,N,3
+5,5,Vullaby,Dark Flying,Y,Y,N,N,N,N,2
+5,5,Mandibuzz,Dark Flying,Y,Y,N,N,N,N,2
+5,5,Heatmor,Fire,Y,N,N,N,N,N,1
+5,5,Durant,Bug Steel,Y,N,N,Y,N,N,2
+5,5,Deino,Dark Dragon,N,N,N,Y,N,N,1
+5,5,Zweilous,Dark Dragon,N,N,N,Y,N,N,1
+5,5,Hydreigon,Dark Dragon,N,Y,Y,Y,N,N,3
+5,5,Larvesta,Bug Fire,N,N,N,N,N,N,0
+5,5,Volcarona,Bug Fire,N,Y,N,N,N,N,1
+5,5,Cobalion,Steel Fighting,Y,N,N,Y,N,N,2
+5,5,Terrakion,Rock Fighting,Y,N,N,Y,N,N,2
+5,5,Virizion,Grass Fighting,Y,N,N,Y,N,N,2
+5,5,Tornadus Incarnate Forme,Flying,N,Y,N,Y,N,N,2
+5,5,Tornadus Therian Forme,Flying,N,N,N,N,N,N,0
+5,5,Thundurus Incarnate Forme,Electric Flying,N,Y,N,Y,N,N,2
+5,5,Thundurus Therian Forme,Electric Flying,N,N,N,N,N,N,0
+5,5,Reshiram,Dragon Fire,Y,Y,N,Y,N,N,3
+5,5,Zekrom,Dragon Electric,Y,Y,N,Y,N,N,3
+5,5,Landorus Incarnate Forme,Ground Flying,N,Y,N,Y,N,N,2
+5,5,Landorus Therian Forme,Ground Flying,N,N,N,N,N,N,0
+5,5,Kyurem,Dragon Ice,Y,Y,N,Y,N,N,3
+5,5,Kyurem White Kyurem,Dragon Ice,N,N,N,N,N,N,0
+5,5,Kyurem Black Kyurem,Dragon Ice,N,N,N,N,N,N,0
+5,5,Keldeo Ordinary Form,Water Fighting,Y,N,Y,Y,N,N,3
+5,5,Keldeo Resolute Form,Water Fighting,N,N,N,N,N,N,0
+5,5,Meloetta Aria Forme,Normal Psychic,N,N,N,Y,N,N,1
+5,5,Meloetta Pirouette Forme,Normal Fighting,N,N,N,N,N,N,0
+5,5,Genesect,Bug Steel,N,Y,N,N,N,N,1
