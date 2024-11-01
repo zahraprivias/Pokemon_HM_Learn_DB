@@ -1,5 +1,5 @@
 #! /bin/bash
-PSQL="psql -U postgres -d pokemon_hm -c"
+PSQL="psql -U postgres -d pokemon_hm -t --no-align -c"
 
 cat pokemon_hm.csv | while IFS="," read DEX NATL NAME TYPE CUT FLY SURF STRENGTH WATERFALL DIVE TOTAL
 do
